@@ -1,2 +1,2 @@
-# Apiario_autom-tico-dispositivo-
+# Apiario_automatico-dispositivo
 Sistema automático para monitoramento de um apiario com esp32
